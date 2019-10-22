@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders with correctly footer content 1`] = `
+<footer
+  className="airwallex-footer-container"
+>
+  <p>
+    Made with ❤ in Melbourne.
+  </p>
+  <p>
+    @2019 Broccoli & Co. All rights reserved.
+  </p>
+</footer>
+`;
+
+exports[`renders with correctly header content 1`] = `
+<footer
+  className="airwallex-footer-container"
+>
+  <p>
+    Made with ❤ in Melbourne.
+  </p>
+  <p>
+    @2019 Broccoli & Co. All rights reserved.
+  </p>
+</footer>
+`;

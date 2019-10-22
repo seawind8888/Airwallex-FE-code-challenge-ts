@@ -1,0 +1,19 @@
+.App-main-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    .App-main-content{
+      line-height: 1.2;
+      &-title {
+        font-size: 32px;
+        line-height: 1.2;
+        font-weight: bold;
+      
+      }
+      &-desc {
+        margin-top: 20px;
+        margin-bottom: 30px;
+      }
+    }
+  }

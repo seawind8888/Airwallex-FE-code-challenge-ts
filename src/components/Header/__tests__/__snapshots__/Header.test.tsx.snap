@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders with correctly header content 1`] = `
+<header
+  className="airwallex-header-container"
+>
+  <div
+    className="airwallex-header-main"
+  >
+    BROCCOLI & CO.
+  </div>
+</header>
+`;

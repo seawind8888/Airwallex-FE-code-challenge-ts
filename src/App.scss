@@ -1,5 +1,9 @@
+@import '~antd/dist/antd.css';
 .App {
+  height: 100%;
   text-align: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .App-logo {
@@ -20,3 +24,4 @@
 .App-link {
   color: #09d3ac;
 }
+
