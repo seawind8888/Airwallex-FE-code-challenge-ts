@@ -1,5 +1,7 @@
 # Airwallex-FE-code-challenge-ts
-Demo: 
+Preview: http://47.244.103.124:3030/
+
+# Usage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
